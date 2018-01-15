@@ -1,0 +1,1678 @@
+!SESSION 2018-01-14 15:15:06.267 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file V:\Code\scandoc-workspace\.metadata\.bak_0.log
+Created Time: 2018-01-14 17:20:51.914
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.914
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\com.sun.jna_4.1.0.v20170410-1117.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.914
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\com.sun.jna.platform_4.1.0.v20170410-1117.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\javax.xml_1.3.4.v201005080400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\name.schedenig.eclipse.quickbookmarks_1.3.1.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.css_1.9.0.v20170908-1305.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.i18n_1.9.0.v20170906-1841.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.util_1.9.0.v20170906-1841.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.felix.scr_2.0.12.v20170809-1959.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.apache.httpcomponents.httpclient.win_4.5.2.v20170410-1149.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.apache.xerces_2.9.0.v201101211617.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.apache.xml.resolver_1.2.0.v201005080400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.929
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.apache.xml.serializer_2.7.1.v201005080400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ant.launching_1.2.100.v20170907-0640.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ant.ui_3.7.100.v20170907-0640.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.compare_3.7.200.v20171012-1028.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.compare.core_3.6.200.v20170713-1754.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.commands_3.9.100.v20170607-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.945
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.contenttype_3.7.0.v20170823-1402.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.960
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding_1.6.200.v20170915-1131.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.960
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.beans_1.4.100.v20170904-1021.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.960
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.observable_1.6.200.v20170824-0904.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.960
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.property_1.6.200.v20170904-1021.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.960
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.expressions_3.6.100.v20170724-0832.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.externaltools_1.1.100.v20171012-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.filebuffers_3.6.200.v20170707-1638.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.filesystem_1.7.100.v20170720-0917.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.jobs_3.10.0.v20170918-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.net_1.3.200.v20171018-1510.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.resources_3.13.0.v20171013-0849.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.976
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.runtime_3.14.0.v20170919-1539.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.992
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.cvs_1.4.500.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.992
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.debug.core_3.11.100.v20170908-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.992
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.debug.ui_3.13.0.v20171018-0851.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:51.992
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.draw2d_3.10.100.201606061308.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.007
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.di_1.6.200.v20170724-0836.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.007
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.services_2.1.100.v20170724-0837.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.007
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.emf.xpath_0.2.100.v20170608-0922.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.007
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.bindings_0.12.100.v20171013-1231.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.007
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.css.core_0.12.200.v20171010-1805.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.css.swt_0.13.100.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.dialogs_1.1.200.v20170821-0918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.model.workbench_2.0.100.v20170707-1714.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench_1.6.0.v20170927-1521.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.addons.swt_1.3.100.v20171010-1805.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.renderers.swt_0.14.200.v20171019-0721.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.023
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.swt_0.14.200.v20171016-0628.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.common_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore.change_2.12.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore.xmi_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.epp.mpc.core_1.6.0.v20170614-1943.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.epp.mpc.core.win32_1.6.0.v20170511-1445.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.039
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.epp.mpc.help.ui_1.6.0.v20170516-1025.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.epp.mpc.ui_1.6.0.v20170616-0843.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.common_3.9.100.v20170916-0621.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.ds_1.5.100.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.event_1.4.100.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.frameworkadmin_2.1.0.v20170821-0555.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.frameworkadmin.equinox_1.1.0.v20171003-1245.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.http.servlet_1.4.100.v20171019-1413.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.600.v20170921-0935
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.054
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.artifact.repository_1.2.0.v20170904-1303.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.console_1.1.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.core_2.5.0.v20170831-1403.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.director_2.4.0.v20171003-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.director.app_1.1.0.v20170817-1612.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.directorywatcher_1.2.0.v20171004-1559.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.equinox.p2.discovery_1.0.400.v20160504-1450.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.equinox.p2.discovery.compatibility_1.0.200.v20131211-1531.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.engine_2.6.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.extensionlocation_1.3.0.v20171006-0547.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.070
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.garbagecollector_1.1.0.v20171006-0557.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.jarprocessor_1.1.0.v20171007-0730.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.metadata_2.4.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.metadata.repository_1.3.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.operations_2.5.0.v20171009-0634.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.publisher_1.5.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.publisher.eclipse_1.3.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.reconciler.dropins_1.2.0.v20171009-0651.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.repository_2.4.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.085
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.repository.tools_2.2.0.v20170819-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.eclipse_2.2.0.v20170919-0925.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.natives_1.3.0.v20171009-0722.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.transport.ecf_1.2.0.v20171010-0643.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui_2.5.100.v20171013-1516.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.equinox.p2.ui.discovery_1.0.300.v20170418-0708.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.importexport_1.2.0.v20171011-1702.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk_1.1.0.v20171006-1918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk.scheduler_1.4.0.v20171006-1918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.updatechecker_1.2.0.v20171010-0648.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.101
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.updatesite_1.1.0.v20171018-0403.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.preferences_3.7.100.v20170920-1907.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.registry_3.8.0.v20170919-1610.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.simpleconfigurator_1.3.0.v20171007-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.simpleconfigurator.manipulator_2.1.0.v20171003-1229.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.util_1.0.600.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help_3.8.100.v20170816-0755.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.base_4.2.200.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.ui_4.1.100.v20170911-0752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.117
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.webapp_3.9.100.v20170909-0614.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt_3.14.0.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.apt.core_3.5.100.v20170926-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.compiler.apt_1.3.100.v20171004-1431.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.compiler.tool_1.2.100.v20170926-0525.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.core_3.14.0.v20171025-0549.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.core.manipulation_1.9.100.v20171018-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.debug_3.11.100.v20171019-0457
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.debug.ui_3.9.0.v20171024-0444.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.doc.isv_3.14.0.v20171025-1133.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.doc.user_3.14.0.v20170817-0656.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit_3.11.0.v20171012-0828.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit.core_3.10.0.v20171012-0828.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit.runtime_3.4.700.v20170905-1431.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.132
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit4.runtime_1.1.700.v20170929-0611.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit5.runtime_1.0.100.v20171007-2153.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.launching_3.10.0.v20171019-1018.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.ui_3.14.0.v20171018-2043.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.continuation_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.http_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.io_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.148
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.security_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.164
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.server_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.164
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.servlet_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.164
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.util_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.164
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface_3.14.0.v20171011-2037.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.164
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface.databinding_1.8.200.v20170920-1902.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface.text_3.13.0.v20171002-1423.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ltk.ui.refactoring_3.9.100.v20170918-1311.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.cwt_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.effects.stw_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.effects.stw.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.examples_1.0.4.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.jface.cdatetime_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.paperclips.core_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.paperclips.widgets_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.179
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.widgets_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.xygraph_3.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.xygraph.exampleview_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.cdatetime_1.2.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.cdatetime.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.compositetable_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.gallery_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.gallery.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.ganttchart_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.ganttchart.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.195
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.geomap_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.geomap.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.grid_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.grid.example_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.oscilloscope_1.4.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.oscilloscope.example_1.0.1.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.paperclips.example_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.210
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pgroup_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pgroup.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf.css_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.richtext_1.2.0.201711232020
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.tablecombo_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.tablecombo.example_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.226
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer.core_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer.example_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi_3.13.0.v20170919-1456.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.services_3.7.0.v20170822-1249.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.util_3.5.0.v20170822-1249.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde_3.13.100.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.242
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.api.tools_1.1.200.v20170711-0920.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.api.tools.ui_1.1.200.v20170815-1247.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.build_3.9.400.v20170815-0857
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.core_3.11.200.v20171020-0953.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.doc.user_3.13.100.v20171025-1133.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.core_1.1.200.v20170712-1723.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.ui_1.1.200.v20171018-1255.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.genericeditor.extension_1.0.100.v20170920-1144.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.junit.runtime_3.5.100.v20170904-1011.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.257
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.launching_3.7.100.v20171010-1301.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.runtime_3.6.100.v20171016-1924.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ua.core_1.1.100.v20170918-1310.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ua.ui_1.1.200.v20170921-1235.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ui_3.10.100.v20171020-0953.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ui.templates_3.6.200.v20171009-0914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.platform_4.8.0.v20171030-0400
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.platform.doc.isv_4.8.0.v20171025-1133.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.platform.doc.user_4.8.0.v20170802-1236.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.273
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.rcp_4.8.0.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.sdk_4.8.0.v20171030-0400
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.sdk.samples_4.4.0
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.search_3.11.200.v20170919-1453.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.swt_3.107.0.v20171030-0304.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.107.0.v20171030-0304.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.core_3.8.200.v20171012-1859.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.core_3.4.100.v20170128-0234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.ssh2_3.3.0.v20160418-1534.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.ui_3.4.100.v20170816-0735.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.genericeditor.diff.extension_1.0.100.v20170725-1314.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.289
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.ui_3.8.100.v20171012-1551.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.text_3.6.300.v20170713-1437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.tools.layout.spy_1.0.100.v20170629-2159.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui_3.109.100.v20171016-1906.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.browser_3.6.200.v20170818-1646.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.cheatsheets_3.5.200.v20170910-0745.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.console_3.7.100.v20170920-0859.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.editors_3.11.100.v20170915-1234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.304
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.externaltools_3.4.100.v20170915-1448.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.forms_3.7.200.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.genericeditor_1.1.0.v20171017-1336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.ide_3.14.0.v20171018-0753.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.ide.application_1.2.100.v20170619-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro_3.5.200.v20170911-0752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro.quicklinks_1.0.200.v20170817-1232.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro.universal_3.3.200.v20170909-0858.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.320
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.navigator_3.7.100.v20171012-0652.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.navigator.resources_3.6.100.v20170721-1414.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.net_1.3.200.v20171018-1347.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.themes_1.2.100.v20171011-2037
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views_3.9.100.v20170918-1107.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views.log_1.2.200.v20170914-1342.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views.properties.tabbed_3.8.100.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.workbench_3.111.0.v20171023-1428.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.workbench.texteditor_3.10.200.v20170915-1234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.335
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.update.configurator_3.4.0.v20171019-0650.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.userstorage_1.1.0.v20170328-0205.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.userstorage.oauth_1.0.0.v20170526-1605.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.userstorage.ui_1.0.2.v20170526-1605.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core_1.10.0.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.databinding_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.databinding.xml_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.java_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.351
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.lib_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.ui_1.10.0.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.core.xml_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.doc.user_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.layout.group_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.os_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.os.win32_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.367
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.382
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.SWT_AWT_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.382
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.databinding_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.382
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.databinding.emf_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.382
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.databinding.xwt_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.382
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.doc.user_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.398
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.nebula_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.398
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.rcp.swing2swt_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.398
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.runtime_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.398
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.runtime.lib_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.398
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.414
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.FormLayout_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.414
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.FormLayout.lib_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.414
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.MigLayout_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.414
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.MigLayout.lib_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.414
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.databinding_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.doc.user_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.java6_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swing.jsr296_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swt_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.swt.widgets.baseline_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wb.xwt_1.9.1.201711270508.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.core_1.2.0.v200908251833.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.429
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.environment_1.0.400.v200912181831.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.frameworks_1.2.200.v201304241450.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.frameworks.ui_1.2.400.v201504292002.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.ui_1.1.500.v200911182011.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.common.uriresolver_1.2.300.v201702270556.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.sse.core_1.1.1000.v201704201929.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.sse.ui_1.3.600.v201704250123.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.validation_1.2.700.v201508251749.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.validation.ui_1.2.500.v201310231452.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.445
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.xml.core_1.1.1100.v201705012045.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.wst.xml.ui_1.1.800.v201704102213.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.tukaani.xz_1.6.0.v20170629-1752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\com.ibm.icu.source_58.2.0.v20170418-1837.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\com.jcraft.jsch.source_0.1.54.v20170116-1932.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\com.sun.el.source_2.2.0.v201303151357.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\javax.annotation.source_1.2.0.v201602091430.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\javax.el.source_2.2.0.v201303151357.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\javax.inject.source_1.0.0.v20091030.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\javax.servlet.jsp.source_2.2.0.v201112011158.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\javax.servlet.source_3.1.0.v201410161800.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.460
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.ant.source_1.10.1.v20170504-0840.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.css.source_1.9.0.v20170908-1305.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.i18n.source_1.9.0.v20170906-1841.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.batik.util.source_1.9.0.v20170906-1841.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.commons.codec.source_1.9.0.v20170208-1614.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.commons.jxpath.source_1.3.0.v200911051830.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.commons.logging.source_1.1.1.v201101211721.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.felix.gogo.command.source_0.10.0.v201209301215.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.felix.gogo.runtime.source_0.10.0.v201209301036.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.felix.gogo.shell.source_0.10.0.v201212101605.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.felix.scr.source_2.0.12.v20170809-1959.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.httpcomponents.httpclient.source_4.5.2.v20170210-0925.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.476
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.httpcomponents.httpcore.source_4.4.6.v20170210-0925.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.jasper.glassfish.source_2.2.2.v201501141630.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.lucene.analyzers-common.source_6.1.0.v20161115-1612.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.lucene.analyzers-smartcn.source_6.1.0.v20161115-1612.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.lucene.core.source_6.1.0.v20170814-1820.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apache.lucene.misc.source_6.1.0.v20161115-1612.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.apiguardian.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ant.core.source_3.5.0.v20170509-2149.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ant.launching.source_1.2.100.v20170907-0640.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ant.ui.source_3.7.100.v20170907-0640.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.compare.core.source_3.6.200.v20170713-1754.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.compare.source_3.7.200.v20171012-1028.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.compare.win32.source_1.2.0.v20170517-0839.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.commands.source_3.9.100.v20170607-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.492
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.contenttype.source_3.7.0.v20170823-1402.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.beans.source_1.4.100.v20170904-1021.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.observable.source_1.6.200.v20170824-0904.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.property.source_1.6.200.v20170904-1021.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.databinding.source_1.6.200.v20170915-1131.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.expressions.source_3.6.100.v20170724-0832.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.externaltools.source_1.1.100.v20171012-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.507
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.filebuffers.source_3.6.200.v20170707-1638.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.filesystem.source_1.7.100.v20170720-0917.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.jobs.source_3.10.0.v20170918-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.net.source_1.3.200.v20171018-1510.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.resources.source_3.13.0.v20171013-0849.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.runtime.source_3.14.0.v20170919-1539.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.core.variables.source_3.4.0.v20170113-2056.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.debug.core.source_3.11.100.v20170908-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.debug.ui.source_3.13.0.v20171018-0851.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.commands.source_0.12.100.v20170513-0428.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.contexts.source_1.6.0.v20170322-1144.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.di.annotations.source_1.6.0.v20170119-2002.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.di.extensions.source_0.15.0.v20170228-1728.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.di.extensions.supplier.source_0.15.0.v20170407-0928.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.di.source_1.6.200.v20170724-0836.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.core.services.source_2.1.100.v20170724-0837.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.emf.xpath.source_0.2.100.v20170608-0922.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.523
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.bindings.source_0.12.100.v20171013-1231.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.css.core.source_0.12.200.v20171010-1805.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.css.swt.source_0.13.100.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.css.swt.theme.source_0.11.0.v20170312-2302.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.di.source_1.2.100.v20170414-1137.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.dialogs.source_1.1.200.v20170821-0918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.model.workbench.source_2.0.100.v20170707-1714.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.services.source_1.3.0.v20170307-2032.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.widgets.source_1.2.0.v20160630-0736.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.addons.swt.source_1.3.100.v20171010-1805.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.renderers.swt.source_0.14.200.v20171019-0721.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.source_1.6.0.v20170927-1521.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench.swt.source_0.14.200.v20171016-0628.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.e4.ui.workbench3.source_0.14.0.v20160630-0740.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.filetransfer.source_5.0.0.v20160817-1024.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.539
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.identity.source_3.8.0.v20161203-2153.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.provider.filetransfer.httpclient4.source_1.1.200.v20170314-0133.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.provider.filetransfer.httpclient4.ssl.source_1.1.0.v20160817-1024.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.provider.filetransfer.source_3.2.300.v20161203-1840.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.provider.filetransfer.ssl.source_1.0.0.v20160817-1024.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.source_3.8.0.v20170104-0657.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ecf.ssl.source_1.2.0.v20160817-1024.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.common.source_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore.change.source_2.12.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore.source_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.554
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.emf.ecore.xmi.source_2.14.0.v20170912-0437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.app.source_1.3.400.v20150715-1528.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.bidi.source_1.1.0.v20160728-1031.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.common.source_3.9.100.v20170916-0621.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.console.source_1.1.300.v20170512-2111.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.ds.source_1.5.100.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.event.source_1.4.100.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.frameworkadmin.equinox.source_1.1.0.v20171003-1245.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.frameworkadmin.source_2.1.0.v20170821-0555.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.570
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.http.jetty.source_3.4.0.v20170503-2025.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.http.registry.source_1.1.400.v20150715-1528.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.http.servlet.source_1.4.100.v20171019-1413.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.jsp.jasper.registry.source_1.0.300.v20130327-1442.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.jsp.jasper.source_1.0.500.v20150119-1358.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.launcher.source_1.4.0.v20161219-1356.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.artifact.repository.source_1.2.0.v20170904-1303.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.console.source_1.1.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.core.source_2.5.0.v20170831-1403.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.director.app.source_1.1.0.v20170817-1612.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.director.source_2.4.0.v20171003-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.directorywatcher.source_1.2.0.v20171004-1559.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.585
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.engine.source_2.6.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.extensionlocation.source_1.3.0.v20171006-0547.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.garbagecollector.source_1.1.0.v20171006-0557.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.jarprocessor.source_1.1.0.v20171007-0730.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.metadata.repository.source_1.3.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.metadata.source_2.4.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.operations.source_2.5.0.v20171009-0634.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.601
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.publisher.eclipse.source_1.3.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.publisher.source_1.5.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.reconciler.dropins.source_1.2.0.v20171009-0651.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.repository.source_2.4.0.v20171013-1300.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.repository.tools.source_2.2.0.v20170819-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.eclipse.source_2.2.0.v20170919-0925.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.natives.source_1.3.0.v20171009-0722.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.transport.ecf.source_1.2.0.v20171010-0643.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.importexport.source_1.2.0.v20171011-1702.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk.scheduler.source_1.4.0.v20171006-1918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk.source_1.1.0.v20171006-1918.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.617
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.ui.source_2.5.100.v20171013-1516.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.updatechecker.source_1.2.0.v20171010-0648.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.p2.updatesite.source_1.1.0.v20171018-0403.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.preferences.source_3.7.100.v20170920-1907.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.registry.source_3.8.0.v20170919-1610.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.security.source_1.2.300.v20170505-1235.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.security.ui.source_1.1.400.v20170505-1235.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.security.win32.x86_64.source_1.0.100.v20130327-1442.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.simpleconfigurator.manipulator.source_2.1.0.v20171003-1229.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.simpleconfigurator.source_1.3.0.v20171007-0939.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.632
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.equinox.util.source_1.0.600.v20170803-2336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.base.source_4.2.200.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.source_3.8.100.v20170816-0755.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.ui.source_4.1.100.v20170911-0752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.help.webapp.source_3.9.100.v20170909-0614.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.annotation.source_2.1.100.v20170511-1408.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.annotation.source_1.1.100.v20160418-1457.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.apt.core.source_3.5.100.v20170926-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.apt.pluggable.core.source_1.2.0.v20170322-1054.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.apt.ui.source_3.5.0.v20170505-1107.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.648
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.compiler.apt.source_1.3.100.v20171004-1431.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.compiler.tool.source_1.2.100.v20170926-0525.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.core.manipulation.source_1.9.100.v20171018-0711.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.core.source_3.14.0.v20171025-0549.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.debug.source_3.11.100.v20171019-0457.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.debug.ui.source_3.9.0.v20171024-0444.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit.core.source_3.10.0.v20171012-0828.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit.runtime.source_3.4.700.v20170905-1431.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit.source_3.11.0.v20171012-0828.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit4.runtime.source_1.1.700.v20170929-0611.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.junit5.runtime.source_1.0.100.v20171007-2153.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.664
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.launching.source_3.10.0.v20171019-1018.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jdt.ui.source_3.14.0.v20171018-2043.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.continuation.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.http.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.io.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.security.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.server.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.servlet.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jetty.util.source_9.4.7.v20170914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface.databinding.source_1.8.200.v20170920-1902.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.679
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface.source_3.14.0.v20171011-2037.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jface.text.source_3.13.0.v20171002-1423.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jsch.core.source_1.3.0.v20160422-1917.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.jsch.ui.source_1.3.0.v20160323-1650.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ltk.core.refactoring.source_3.8.0.v20170105-1156.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ltk.ui.refactoring.source_3.9.100.v20170918-1311.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.cwt.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.effects.stw.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.effects.stw.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.jface.cdatetime.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.paperclips.core.source_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.695
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.paperclips.widgets.source_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.widgets.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.xygraph.exampleview.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.visualization.xygraph.source_3.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.cdatetime.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.cdatetime.source_1.2.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.compositetable.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.gallery.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.gallery.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.ganttchart.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.710
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.ganttchart.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.geomap.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.geomap.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.grid.example.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.grid.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.oscilloscope.example.source_1.0.1.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.oscilloscope.source_1.4.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.paperclips.example.source_2.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pgroup.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pgroup.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf.css.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.726
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.pshelf.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.richtext.source_1.2.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.tablecombo.example.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.tablecombo.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer.core.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer.example.source_1.0.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\Users\Admin\.eclipse\org.eclipse.platform_4.7.0_1709980481_win32_win32_x86_64\plugins\org.eclipse.nebula.widgets.xviewer.source_1.1.0.201711232020.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.compatibility.state.source_1.1.0.v20170516-1513.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.services.source_3.7.0.v20170822-1249.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.source_3.13.0.v20170919-1456.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.742
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.osgi.util.source_3.5.0.v20170822-1249.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.api.tools.annotations.source_1.1.0.v20170118-0848.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.api.tools.source_1.1.200.v20170711-0920.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.api.tools.ui.source_1.1.200.v20170815-1247.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.build.source_3.9.400.v20170815-0857.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.core.source_3.11.200.v20171020-0953.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.757
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.annotations.source_1.1.0.v20170516-2121.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.773
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.core.source_1.1.200.v20170712-1723.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.773
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.lib.source_1.1.0.v20170303-1624.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.773
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds.ui.source_1.1.200.v20171018-1255.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.773
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ds1_2.lib.source_1.0.0.v20170303-1624.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.genericeditor.extension.source_1.0.100.v20170920-1144.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.junit.runtime.source_3.5.100.v20170904-1011.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.launching.source_3.7.100.v20171010-1301.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.runtime.source_3.6.100.v20171016-1924.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ua.core.source_1.1.100.v20170918-1310.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ua.ui.source_1.1.200.v20170921-1235.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ui.source_3.10.100.v20171020-0953.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.pde.ui.templates.source_3.6.200.v20171009-0914.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.platform.source_4.8.0.v20171030-0400.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.search.source_3.11.200.v20170919-1453.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64.source_3.107.0.v20171030-0304.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.core.source_3.8.200.v20171012-1859.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.789
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.core.source_3.4.100.v20170128-0234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.804
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.ssh2.source_3.3.0.v20160418-1534.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.804
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.cvs.ui.source_3.4.100.v20170816-0735.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.804
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.genericeditor.diff.extension.source_1.0.100.v20170725-1314.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.804
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.team.ui.source_3.8.100.v20171012-1551.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.820
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.text.source_3.6.300.v20170713-1437.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.820
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.tools.layout.spy.source_1.0.100.v20170629-2159.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.820
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.browser.source_3.6.200.v20170818-1646.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.820
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.cheatsheets.source_3.5.200.v20170910-0745.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.console.source_3.7.100.v20170920-0859.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.editors.source_3.11.100.v20170915-1234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.externaltools.source_3.4.100.v20170915-1448.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.forms.source_3.7.200.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.genericeditor.source_1.1.0.v20171017-1336.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.ide.application.source_1.2.100.v20170619-0712.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.ide.source_3.14.0.v20171018-0753.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.835
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro.quicklinks.source_1.0.200.v20170817-1232.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro.source_3.5.200.v20170911-0752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.intro.universal.source_3.3.200.v20170909-0858.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.monitoring.source_1.1.100.v20170131-1736.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.navigator.resources.source_3.6.100.v20170721-1414.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.navigator.source_3.7.100.v20171012-0652.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.net.source_1.3.200.v20171018-1347.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.source_3.109.100.v20171016-1906.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.themes.source_1.2.100.v20171011-2037.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.trace.source_1.1.0.v20170201-2036.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.851
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views.log.source_1.2.200.v20170914-1342.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views.properties.tabbed.source_3.8.100.v20171011-1751.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.views.source_3.9.100.v20170918-1107.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.win32.source_3.3.0.v20160505-1310.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.workbench.source_3.111.0.v20171023-1428.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.ui.workbench.texteditor.source_3.10.200.v20170915-1234.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.eclipse.update.configurator.source_3.4.0.v20171019-0650.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.hamcrest.core.source_1.3.0.v201303031735.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.jupiter.api.source_5.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.jupiter.engine.source_5.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.jupiter.migrationsupport.source_5.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.867
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.jupiter.params.source_5.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.platform.commons.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.platform.engine.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.platform.launcher.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.platform.runner.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.platform.suite.api.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.source_4.12.0.v201504281640.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.junit.vintage.engine.source_4.12.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.objectweb.asm.source_5.0.1.v201404251740.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.objectweb.asm.tree.source_5.0.1.v201404251740.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.opentest4j.source_1.0.0.v20170910-2246.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.tukaani.xz.source_1.6.0.v20170629-1752.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.w3c.css.sac.source_1.3.1.v200903091627.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.w3c.dom.events.source_3.0.0.draft20060413_v201105210656.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.882
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.w3c.dom.smil.source_1.0.1.v200903091627.jar
+
+!ENTRY org.eclipse.pde.core 4 0 2018-01-14 17:20:52.898
+!MESSAGE File does not exist: C:\Program Files\eclipse\eclipse\plugins\org.w3c.dom.svg.source_1.1.0.v201011041433.jar

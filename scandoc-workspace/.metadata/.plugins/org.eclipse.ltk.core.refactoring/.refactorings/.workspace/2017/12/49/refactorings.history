@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 0 elements to &apos;org.eclipse.swt.snippets/src/org.eclipse.swt.snippets.Table&apos;&#x0D;&#x0A;- Destination element: &apos;org.eclipse.swt.snippets/src/org.eclipse.swt.snippets.Table&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=org.eclipse.swt.snippets/src&lt;org.eclipse.swt.snippets.Table" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1512408483138" units="0" version="1.0"/>
+</session>

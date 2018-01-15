@@ -1,0 +1,24 @@
+1512989623822	Move files
+1512989696306	Move files
+1513007537850	Delete element
+1513097006061	Rename type 'CompCreerNouvelleDB'
+1513097026390	Delete element
+1513097038563	Delete element
+1513099716683	Rename type 'DiagHelp'
+1513099756945	Rename type 'DiageAide'
+1513100960992	Delete element
+1513101324387	Delete element
+1513101331621	Delete element
+1513101355410	Rename type 'BrowserSnippet'
+1513102465925	Rename local variable 'compCreerNouvelleDB'
+1513107423958	Delete element
+1513107479916	Rename type 'DiageHelp'
+1513109682422	Move file
+1513109688769	Move file
+1513268907050	Rename compilation unit 'WriteXConfig.java'
+1513269381373	Rename compilation unit 'XConfigFiles.java'
+1513312888488	Encapsulate field 'folderPath'
+1513316172952	Encapsulate field 'backupPath'
+1513316213504	Encapsulate field 'FolderPath'
+1513320282560	Encapsulate field 'fileExist'
+1513359552883	Encapsulate field 'configured'

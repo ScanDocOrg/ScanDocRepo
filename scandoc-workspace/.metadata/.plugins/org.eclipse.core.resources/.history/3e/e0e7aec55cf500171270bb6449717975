@@ -1,0 +1,194 @@
+package scandoc.TypeDocument;
+
+import org.eclipse.swt.widgets.Dialog;
+import org.eclipse.swt.widgets.Display;
+import org.eclipse.swt.widgets.Shell;
+import org.eclipse.swt.widgets.TableItem;
+import org.eclipse.swt.widgets.Group;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.eclipse.swt.SWT;
+import org.eclipse.swt.widgets.Label;
+import org.eclipse.wb.swt.SWTResourceManager;
+import org.eclipse.swt.widgets.Combo;
+import org.eclipse.swt.widgets.Button;
+import org.eclipse.swt.widgets.Text;
+import org.eclipse.swt.events.SelectionAdapter;
+import org.eclipse.swt.events.SelectionEvent;
+import scandoc.*;
+import scandoc.Fichier.XConfigFile;
+
+public class DiagGetFileType extends Dialog {
+
+	protected Object result;
+	protected Shell shlChoisirOuCrer;
+	private Text txtTypeDocumentNom;
+	private XConfigFile configFile;
+	public String nomDocumentType;
+	Combo combo;
+	/**
+	 * Create the dialog.
+	 * @param parent
+	 * @param style
+	 */
+	public DiagGetFileType(Shell parent, int style) {
+		super(parent, style);
+		setText("SWT Dialog");
+		configFile = MainWindow.configFile;
+	}
+
+	/**
+	 * Open the dialog.
+	 * @return the result
+	 */
+	public Object open() {
+		createContents();
+		shlChoisirOuCrer.open();
+		shlChoisirOuCrer.layout();
+		Display display = getParent().getDisplay();
+		while (!shlChoisirOuCrer.isDisposed()) {
+			if (!display.readAndDispatch()) {
+				display.sleep();
+			}
+		}
+		return result;
+	}
+
+	/**
+	 * Create contents of the dialog.
+	 */
+	private void createContents() {
+		shlChoisirOuCrer = new Shell(getParent(), getStyle());
+		shlChoisirOuCrer.setBackground(SWTResourceManager.getColor(SWT.COLOR_WIDGET_BACKGROUND));
+		shlChoisirOuCrer.setSize(450, 207);
+		shlChoisirOuCrer.setText("Choisir ou cr\u00E9er un type de fichier");
+		
+		Group group = new Group(shlChoisirOuCrer, SWT.NONE);
+		group.setBackground(SWTResourceManager.getColor(SWT.COLOR_WIDGET_LIGHT_SHADOW));
+		group.setBounds(10, 0, 424, 89);
+		
+		Label lblSelectFileType = new Label(group, SWT.NONE);
+		lblSelectFileType.setBackground(SWTResourceManager.getColor(SWT.COLOR_WIDGET_LIGHT_SHADOW));
+		lblSelectFileType.setAlignment(SWT.CENTER);
+		lblSelectFileType.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.BOLD));
+		lblSelectFileType.setBounds(10, 24, 189, 20);
+		lblSelectFileType.setText("Choisir type de document :");
+		
+		combo = new Combo(group, SWT.NONE);
+		combo.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
+		combo.setBounds(205, 21, 209, 28);
+		
+		//
+		// 
+		//
+		Button btnOKSelection = new Button(group, SWT.NONE);
+		btnOKSelection.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				
+				
+			}
+		});
+		btnOKSelection.setBounds(174, 54, 75, 25);
+		btnOKSelection.setText("Choisir");
+		
+		Group group_1 = new Group(shlChoisirOuCrer, SWT.NONE);
+		group_1.setBackground(SWTResourceManager.getColor(SWT.COLOR_WIDGET_LIGHT_SHADOW));
+		group_1.setBounds(10, 95, 424, 78);
+		
+		Label lblCreateFileType = new Label(group_1, SWT.NONE);
+		lblCreateFileType.setBackground(SWTResourceManager.getColor(SWT.COLOR_WIDGET_LIGHT_SHADOW));
+		lblCreateFileType.setText("Cr\u00E9er type de document :");
+		lblCreateFileType.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.BOLD));
+		lblCreateFileType.setBounds(10, 13, 176, 20);
+		
+		Button btnOkCreation = new Button(group_1, SWT.NONE);
+		btnOkCreation.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				nomDocumentType = txtTypeDocumentNom.getText();
+				if(nomDocumentType != "" && nomDocumentType != null) {
+					insertQuery(nomDocumentType);
+					shlChoisirOuCrer.close();
+				}
+			}
+		});
+		btnOkCreation.setText("Cr\u00E9er");
+		btnOkCreation.setBounds(174, 43, 75, 25);
+		
+		txtTypeDocumentNom = new Text(group_1, SWT.BORDER);
+		txtTypeDocumentNom.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
+		txtTypeDocumentNom.setBounds(192, 10, 222, 25);
+
+		populateCombo();
+	}
+	
+	private void insertDocumentType(String nom_document) {
+		String query = "INSERT INTO TYPE_DOCUMENT (TYPE_DOCUMENT_ID, NOM,ERASED) VALUES (?,?,?);" ;
+		
+		Connection conn = null;
+		PreparedStatement stmt =null;
+		try {
+			String url = "jdbc:sqlite:"+configFile.getFolderPath()+"/database/scandocdb.db";
+			conn = DriverManager.getConnection(url);
+			
+			if(conn != null) {
+			
+				stmt = conn.prepareStatement(query);
+				stmt.setNull(1, java.sql.Types.INTEGER);
+				stmt.setString(2, nom_document);
+				stmt.setInt(3, 0);
+				stmt.executeUpdate();
+				conn.close();
+			}	
+				
+		}catch(SQLException ex1) {
+			System.out.println(ex1.getMessage());
+		} 
+	}
+	
+	private void populateCombo() {
+		String query = "SELECT NOM FROM TYPE_DOCUMENT";
+
+		Connection conn = null;
+		Statement stmt =null;
+		
+		try {
+			conn = connect();
+			conn.setAutoCommit(false);
+			stmt = conn.createStatement();
+			ResultSet rs = stmt.executeQuery(query);
+			
+			//List<String> list = new ArrayList<>();
+			if(conn != null) {
+				while(rs.next()) {
+					combo.add(rs.getString("NOM"));
+				}	
+				conn.close();	
+			}
+			
+		}catch(SQLException ex1) {
+			System.out.println(ex1.getMessage());
+		} 
+	}
+	
+	private Connection connect() {
+        // SQLite connection string
+		String url = "jdbc:sqlite:"+ configFile.getFolderPath() +"/database/scandocdb.db";
+        Connection conn = null;
+        try {
+            conn = DriverManager.getConnection(url);
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+        return conn;
+    }
+}

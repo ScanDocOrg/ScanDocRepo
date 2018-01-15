@@ -1,0 +1,52 @@
+package scandoc.Misc;
+
+import org.eclipse.swt.widgets.Composite;
+import org.eclipse.swt.widgets.Label;
+import org.eclipse.swt.SWT;
+import org.eclipse.core.databinding.DataBindingContext;
+import org.eclipse.core.databinding.observable.value.IObservableValue;
+import org.eclipse.jface.databinding.swt.WidgetProperties;
+
+public class CompAccueil extends Composite {
+	
+	
+
+	/**
+	 * Create the composite.
+	 * @param parent
+	 * @param style
+	 */
+	public CompAccueil(Composite parent, int style) {
+		super(parent, SWT.EMBEDDED);
+		setLayout(null);
+		this.setSize(680,577);
+		
+		Label lblCeciEstLaccueil = new Label(this, SWT.NONE);
+		lblCeciEstLaccueil.setBounds(154, 131, 97, 15);
+		lblCeciEstLaccueil.setText("Ceci est l'accueil");
+		
+		Label lblSeparator = new Label(this, SWT.SEPARATOR | SWT.HORIZONTAL);
+		lblSeparator.setText("separator");
+		lblSeparator.setBounds(0, 0, 64, 2);
+		
+		Label label_1 = new Label(this, SWT.SEPARATOR | SWT.VERTICAL);
+		label_1.setBounds(0, 8, 2, 64);
+		
+		Label label = new Label(this, SWT.SEPARATOR | SWT.HORIZONTAL);
+		label.setBounds(629, 578, 64, 2);
+		
+		Label label_2 = new Label(this, SWT.SEPARATOR | SWT.VERTICAL);
+		label_2.setBounds(701, 516, 2, 64);
+	}
+
+	@Override
+	public void setSize(int width, int height) {
+		// TODO Auto-generated method stub
+		super.setSize(width, height);
+	} 
+	
+	@Override
+	protected void checkSubclass() {
+		// Disable the check that prevents subclassing of SWT components
+	}
+}

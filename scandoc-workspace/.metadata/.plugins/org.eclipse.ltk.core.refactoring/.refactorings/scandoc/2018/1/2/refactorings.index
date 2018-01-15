@@ -1,0 +1,24 @@
+1515408231359	Copy compilation unit
+1515408965499	Rename field 'id_eleve'
+1515408990671	Rename local variable 'id_eleve'
+1515409068921	Rename local variable 'id_eleve'
+1515497000914	Move compilation unit
+1515515086921	Rename method 'selectQuery'
+1515580617572	Rename field 'nomDocumentType'
+1515580633510	Rename field 'SelectedNomDocumentType'
+1515581925901	Rename field 'selectedTypeDocumentId'
+1515751739593	Rename field 'text'
+1515751762265	Rename field 'text_1'
+1515752218140	Rename field 'table_1'
+1515770747983	Copy compilation unit
+1515770783545	Rename type 'DiagCreerTypeDocument2'
+1515771509608	Rename type 'DiagUpdateTypeDocument2'
+1515779842663	Copy compilation unit
+1515779866694	Delete element
+1515779931013	Delete element
+1515779967185	Rename type 'DiagUpdateTypeDocument'
+1515780276596	Delete element
+1515781253127	Rename field 'txtNom'
+1515781395080	Rename field 'typeIndividu'
+1515782302611	Rename field 'txtTypeIndividu'
+1515950007600	Rename field 'id_eleve'
