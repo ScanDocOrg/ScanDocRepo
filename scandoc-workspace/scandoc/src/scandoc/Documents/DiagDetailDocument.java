@@ -3,6 +3,7 @@ package scandoc.Documents;
 import java.io.File;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -37,17 +38,34 @@ public class DiagDetailDocument extends Dialog {
 
 	protected Object result;
 	protected Shell shlDetailDocument;
+	private Display display;
+	
+	
 	private Text txtIdDocument;
+	private String document_id;
+	private String document_nom;
+	
+	private String individu_id;
 	private Text txtNomTitulaire;
 	private Text txtPrenomTitulaire;
-	private Display display;
-	public String document_id;
-	public String individu_id;
-	public int idDocumentType;
+	
+	private int idDocumentType;
+	private String nomDocumentType;
+	private Text txtNomTypeDocument;
+	
+	
+	Button btnSelectTypeDoc;
+	Button btnChangeDocument;
+	
+	private ScrolledComposite scrCompImage;
+	private Label lblImage;
+	private Image image;
+	
 	private XConfigFile configFile;
-	private DiagGetFileTypes diagGetFileTypes;
-	public String nomDocumentType;
-	private Text text;
+	
+	
+	
+	
 	/**
 	 * Create the dialog.
 	 * @param parent
@@ -142,6 +160,8 @@ public class DiagDetailDocument extends Dialog {
 		btnEditer.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
+				btnSelectTypeDoc.setEnabled(true);
+				btnChangeDocument.setEnabled(true);
 			}
 		});
 		btnEditer.setText("Editer");
@@ -152,16 +172,20 @@ public class DiagDetailDocument extends Dialog {
 		btnSave.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
+				btnSelectTypeDoc.setEnabled(false);
+				btnSelectTypeDoc.setEnabled(false);
+				updateDocument();
 			}
 		});
 		btnSave.setText("Save");
 		btnSave.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
 		btnSave.setBounds(408, 711, 153, 25);
 		
-		Button btnChangeDocument = new Button(grpDocument, SWT.NONE);
+		btnChangeDocument = new Button(grpDocument, SWT.NONE);
 		btnChangeDocument.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
+				updateDocument();
 			}
 		});
 		btnChangeDocument.setText("Change Document");
@@ -169,54 +193,38 @@ public class DiagDetailDocument extends Dialog {
 		btnChangeDocument.setBounds(595, 711, 142, 25);
 		
 		//ScrolledComposite scrCompImage = new ScrolledComposite(grpDocument, SWT.BORDER | SWT.H_SCROLL | SWT.V_SCROLL);
-		ScrolledComposite scrCompImage = new ScrolledComposite(grpDocument, SWT.H_SCROLL | SWT.V_SCROLL);
+		scrCompImage = new ScrolledComposite(grpDocument, SWT.H_SCROLL | SWT.V_SCROLL);
 		scrCompImage.setAlwaysShowScrollBars(true);
 		scrCompImage.setBounds(10, 94, 754, 611);
 		//scrCompImage.setBounds(10, 94, 900,700);
 		scrCompImage.setExpandHorizontal(true);
 		scrCompImage.setExpandVertical(false);
 		
+		lblImage = new Label(scrCompImage, SWT.BORDER | SWT.CENTER);
 		
-		
-		/*
-		String originUrl = openFile();
-		//
-		Image image = new Image(display, originUrl);
-		Rectangle rect =image.getBounds();
-		int height = rect.height;
-		int width = rect.width;
-		*/
-		
-		Image image = new Image(display, "V:/Code/test/test-folder-2/files/ScreenShot1.jpg");
-		
-		
-		ImageData imgData = image.getImageData();
-		imgData = imgData.scaledTo(754, 611);
-		Image image2 = new Image(display, imgData);
-		
-		Label lblImage = new Label(scrCompImage, SWT.BORDER);
-		lblImage.setImage(image2);
-	
-		//lblImage.setLocation (clientArea.x, clientArea.y);
-		lblImage.pack();
 		//scrCompImage.pack();
 		scrCompImage.setMinSize(lblImage.computeSize(SWT.DEFAULT, SWT.DEFAULT));
 		scrCompImage.setContent(lblImage);
 		
-		text = new Text(grpDocument, SWT.BORDER);
-		text.setEditable(false);
-		text.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
-		text.setBounds(385, 28, 179, 21);
+		txtNomTypeDocument = new Text(grpDocument, SWT.BORDER);
+		txtNomTypeDocument.setEditable(false);
+		txtNomTypeDocument.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
+		txtNomTypeDocument.setBounds(385, 24, 215, 25);
 		
-		Button btnSelectionnerUnType = new Button(grpDocument, SWT.NONE);
-		btnSelectionnerUnType.setFont(SWTResourceManager.getFont("Segoe UI", 11, SWT.NORMAL));
-		btnSelectionnerUnType.setBounds(570, 24, 194, 25);
-		btnSelectionnerUnType.setText("Selectionner un type de document");
+		btnSelectTypeDoc = new Button(grpDocument, SWT.NONE);
+		btnSelectTypeDoc.setEnabled(false);
+		btnSelectTypeDoc.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				getFileTypes();
+			}
+		});
+		btnSelectTypeDoc.setFont(SWTResourceManager.getFont("Segoe UI", 8, SWT.NORMAL));
+		btnSelectTypeDoc.setBounds(606, 24, 158, 25);
+		btnSelectTypeDoc.setText("Select. un type de document");
 		
-		shlDetailDocument.open();
-		
-		//Image image = new Image(MainWindow.display, "V:\\Code\\test\\test-folder-2\\files\\s.png");
-		//lblImage.setImage(SWTResourceManager.getImage("Y:\\Screenshots\\ScreenShot6.jpg"));
+		populateForm();
+		getImage();
 
 	}
 	
@@ -243,35 +251,87 @@ public class DiagDetailDocument extends Dialog {
 					txtIdDocument.setText(this.document_id);
 					txtPrenomTitulaire.setText(rs.getString("ELEVE_PRENOM"));
 					txtNomTitulaire.setText(rs.getString("ELEVE_NOM"));
+					txtNomTypeDocument.setText(rs.getString("TYPE_DOCUMENT_NOM"));
 				}
-				
-				conn.close();s
+				conn.close();
+			}
+		}catch(SQLException ex1) {
+			System.out.println(ex1.getMessage());
+		} 
+	}
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	private void getImage() {
+		String query= "SELECT DOCUMENT.NOM AS NOM FROM DOCUMENT WHERE DOCUMENT.ID_DOCUMENT="+this.document_id+";";
+		
+		Connection conn = null;
+		Statement stmt =null;
+		try {
+			conn = connect();
+			conn.setAutoCommit(false);
+			stmt = conn.createStatement();
+			ResultSet rs = stmt.executeQuery(query);
+			
+			if(conn != null) {
+				while(rs.next()) {
+					this.document_nom = rs.getString("NOM");
+				}
+				conn.close();
 			}
 		}catch(SQLException ex1) {
 			System.out.println(ex1.getMessage());
 		} 
 		
+		String url = this.document_nom;
+		this.image =  new Image(display, url);
+		Image image2 =getScaledImage(image);
+		lblImage.setImage(image2);
+	
+		//lblImage.setLocation (clientArea.x, clientArea.y);
+		lblImage.pack();
 	}
 	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	private void updateDocument() {
+		String url = openFile();
+		
+		if(url != null && url != "") {
+			String query = "UPDATE DOCUMENT SET " +
+							"DOCUMENT.NOM = ? " +
+							"WHERE DOCUMENT.ID_DOCUMENT="+this.document_id+";";
+							
+			try (Connection conn = this.connect();
+	                PreparedStatement pstmt = conn.prepareStatement(query)) {
+	 
+	            // set the corresponding param
+	            pstmt.setString(1, url);
+	            pstmt.executeUpdate();
+	        } catch (SQLException e) {
+	            System.out.println(e.getMessage());
+	        }
+			this.document_nom = url;
+			this.image =  new Image(display, url);
+			Image image2 =getScaledImage(image);
+			lblImage.setImage(image2);
+			lblImage.pack();
+		}
+	}
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+	
 	private void getFileTypes() {
-		DiagGetFileTypes getFileTypes = new DiagGetFileTypes(shellopen, SWT.DIALOG_TRIM | SWT.APPLICATION_MODAL);
+		DiagGetFileTypes getFileTypes = new DiagGetFileTypes(shlDetailDocument, SWT.DIALOG_TRIM | SWT.APPLICATION_MODAL);
 		getFileTypes.open();
 		this.nomDocumentType = getFileTypes.selectedNomDocumentType;
 		this.idDocumentType = getFileTypes.selectedIdTypeDocument;
-		
-		
+		this.txtNomTypeDocument.setText(this.nomDocumentType);
 	}
 	
-	private void getImage() {
-		String query= "SELECT DOCUMENT.NOM FROM DOCUMENT WHERE DOCUMENT.ID_DOCUMENT="+this.document_id+";";
-		
-		
-		
-	}
-	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
 	
 	private String openFile() {
-//////////////////////////////
 		Shell shellopen = new Shell();
 		FileDialog dialog = new FileDialog (shellopen, SWT.SELECTED);
 		dialog.setText("Choisissez un document (jpg, png, pdf)");
@@ -281,9 +341,9 @@ public class DiagDetailDocument extends Dialog {
 		String platform = SWT.getPlatform();
 		
 		if (platform.equals("win32")) {
-		filterNames = new String [] {"JPG Files (*.jpg)","PNG Files (*.png)", "PDF Files (*.pdf)"};
-		filterExtensions = new String [] {"*.jpg","*.png","*.pdf"};
-		filterPath = "c:\\";
+			filterNames = new String [] {"JPG Files (*.jpg)","PNG Files (*.png)", "PDF Files (*.pdf)"};
+			filterExtensions = new String [] {"*.jpg","*.png","*.pdf"};
+			filterPath = "c:\\";
 		}
 		
 		dialog.setFilterNames (filterNames);
@@ -292,8 +352,46 @@ public class DiagDetailDocument extends Dialog {
 		dialog.setFileName ("myfile");
 		String originUrl = dialog.open ();
 		return originUrl;
-		//////////////////////////////////
+		
+		
 	}
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	private Image getScaledImage(Image image) {
+		Image imageScaled = null;
+		
+		ImageData imgData = image.getImageData();
+		Rectangle rect = image.getBounds();
+		
+		int width = rect.width;
+		int height = rect.height;
+		
+		float scaleWidth = width/754;
+		float scaleHeight = height/611;
+		
+		int newWidth = 0;
+		int newHeight = 0;
+		
+		if(scaleWidth >= scaleHeight) {
+			newWidth = Math.round(width/scaleWidth);
+			newHeight = Math.round(height/scaleWidth);
+		}else if (scaleWidth <= scaleHeight) {
+			newWidth = Math.round(width/scaleHeight);
+			newHeight = Math.round(width/scaleHeight);
+		}
+		/*else if (scaleWidth == scaleHeight) {
+			newWidth = /scaleHeight;
+			newHeight = /scaleHeight;
+		}*/
+		// To fit in 754 x 611
+		imgData = imgData.scaledTo(newWidth, newHeight);
+		imageScaled = new Image(display, imgData);
+		
+		return imageScaled;
+	}
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
 	
 	private Connection connect() {
         // SQLite connection string
@@ -307,3 +405,5 @@ public class DiagDetailDocument extends Dialog {
         return conn;
     }
 }
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
