@@ -1,4 +1,6 @@
 /*
 /scandoc-workspace/*
-!/scandoc-workspace/lib
-!/scandoc-workspace/src
+!config.xml
+!.gitignore
+!/scandoc-workspace/scandoc/lib/*
+!/scandoc-workspace/scandoc/src/*
